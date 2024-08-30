@@ -1,4 +1,4 @@
-# AWS Serverless Lambda - Nodejs - Typescript - DynamoDB
+# AWS Serverless Lambda - Nodejs - JavaScript - DynamoDB
 
 Función Lambda del tipo Rest Api. Usando el framework Serverless, con Nodejs, JavaScript y DynamoDB.
 Definimos un CRUD de gestión de tareas
