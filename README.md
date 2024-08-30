@@ -25,5 +25,5 @@ npm install
 - npm install --save @middy/core
 - npm i @middy/http-json-body-parser
 
-# deploy
+# Deploy
 -  serverless deploy --verbose  
